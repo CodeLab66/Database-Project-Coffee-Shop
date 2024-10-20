@@ -3,5 +3,5 @@ function loadPage(page) {
 }
 
 window.onload = function() {
-    loadPage('../html/login.html');
+    loadPage('html/login.html');
 };
